@@ -1,9 +1,6 @@
 /*
 Write a program to print the result of the following expressions provided the integer variable a is 20 and b is 10.
-int 
-int 
-int 
-int 
+
 */
 
 public class FindValues {
